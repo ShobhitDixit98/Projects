@@ -1,4 +1,5 @@
-Objective of the system:
+OBJECTIVE OF THE EXISTING SYSTEM
+
 The Store Management in early years when they are not computerised were difficult to be managed and requires daily observation of the product they possess.
 The information about product was recorded in the files or on paper. 
 
